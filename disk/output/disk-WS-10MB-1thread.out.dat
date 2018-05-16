@@ -1,0 +1,5 @@
+output
+-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchThroughput TheoreticalThroughput Efficiency
+ WS	     1	        10MB	    60.228042
+-------------------------------------------------------------------------------------

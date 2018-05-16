@@ -1,0 +1,6 @@
+sending...
+sending...
+-------------------------------------------------------------------------------------
+Protocol Concurrency BlockSize MyNETBenchValue TheoreticalValue MyNETBenchEfficiency
+ UDP	     2	        32KB	  744.180103
+-------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+output
+-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchIOPS TheoreticalThroughput Efficiency
+ WR	     32	        1024B	    1660.223096
+-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchLatency TheoreticalThroughput Efficiency
+ WR	     32	        1024B	    0.602329
+-------------------------------------------------------------------------------------

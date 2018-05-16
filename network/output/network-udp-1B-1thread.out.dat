@@ -1,0 +1,6 @@
+Value of max is : 1048576
+sending...
+-------------------------------------------------------------------------------------
+Protocol Concurrency BlockSize MyNETBenchValue TheoreticalValue MyNETBenchEfficiency
+ UDP	     1	        1B	  0.109282
+-------------------------------------------------------------------------------------

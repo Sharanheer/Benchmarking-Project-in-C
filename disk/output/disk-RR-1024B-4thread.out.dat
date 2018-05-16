@@ -1,0 +1,8 @@
+output
+-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchIOPS TheoreticalThroughput Efficiency
+ RR	     4	        1024B	    24185.443834
+-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchLatency TheoreticalThroughput Efficiency
+ RR	     4	        1024B	    0.041347
+-------------------------------------------------------------------------------------

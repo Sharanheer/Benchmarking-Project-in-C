@@ -1,0 +1,5 @@
+output
+successfully wrote the filesuccessfully wrote the file-------------------------------------------------------------------------------------
+Workload Concurrency BlockSize MyDiskBenchThroughput TheoreticalThroughput Efficiency
+ WR	     2	        1MB	    48.140505
+-------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+sending...
+time taken 28.181978 
+-------------------------------------------------------------------------------------
+Protocol Concurrency BlockSize MyNETBenchValue TheoreticalValue MyNETBenchEfficiency
+ TCP	     1	        1KB	  181.676389
+-------------------------------------------------------------------------------------

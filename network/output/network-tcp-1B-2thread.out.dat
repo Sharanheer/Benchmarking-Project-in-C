@@ -1,0 +1,8 @@
+Value of max is : 524288
+sending...
+Value of max is : 524288
+sending...
+-------------------------------------------------------------------------------------
+Protocol Concurrency BlockSize MyNETBenchValue TheoreticalValue MyNETBenchEfficiency
+ TCP	     2	        1B	  0.058607
+-------------------------------------------------------------------------------------

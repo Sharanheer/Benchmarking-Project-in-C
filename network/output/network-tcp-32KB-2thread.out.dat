@@ -1,0 +1,6 @@
+sending...
+sending...
+-------------------------------------------------------------------------------------
+Protocol Concurrency BlockSize MyNETBenchValue TheoreticalValue MyNETBenchEfficiency
+ TCP	     2	        32KB	  207.835782
+-------------------------------------------------------------------------------------
